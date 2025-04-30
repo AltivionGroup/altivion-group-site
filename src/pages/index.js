@@ -41,7 +41,7 @@ export default function Home() {
             {[
               {
                 name: "Fuelify – Mobile Fuel Delivery",
-                url: "https://jjones1026.github.io/fuelifyme",
+                url: "https://fuelifyme-mocha.vercel.app",
               },
               {
                 name: "Waypoint Geospatial – Drone + GIS",
