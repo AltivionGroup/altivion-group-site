@@ -41,11 +41,11 @@ export default function Home() {
             {[
               {
                 name: "Fuelify – Mobile Fuel Delivery",
-                url: "https://fuelify.com",
+                url: "https://jjones1026.github.io/fuelifyme",
               },
               {
                 name: "Waypoint Geospatial – Drone + GIS",
-                url: "https://waypointgeo.com",
+                url: "https://jjones1026.github.io/waypoint-geospatial/",
               },
             ].map((venture) => (
               <a
