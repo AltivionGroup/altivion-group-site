@@ -8,7 +8,7 @@ export default function JesseLattimoreCard() {
         <div className="relative group pt-4">
           <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-gray-600 group-hover:border-orange-500 transition duration-300">
             <Image
-              src="public/boardmembers/jlatt.png"
+              src="/boardmembers/jlatt.png"
               alt="Jesse Lattimore"
               width={160}
               height={160}
@@ -26,7 +26,7 @@ export default function JesseLattimoreCard() {
           <div className="flex flex-col items-center gap-2 mt-4">
             {/* Altivion Logo */}
              <Image
-              src="/venturelogo/alt-rbg-logo.png"
+              src="/venturelogo/wpg-rbg-logo.png"
               alt="Altivion Logo"
               width={60}
               height={60}
