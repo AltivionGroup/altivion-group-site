@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function WesleyJonesCard() {
+export default function JesseLattimoreCard() {
   return (
     <main className="min-h-screen bg-gray-950 text-white flex items-center justify-center p-6">
       <div className="bg-gray-900 border border-gray-800 rounded-2xl p-6 max-w-4xl w-full shadow-xl flex flex-col md:flex-row gap-6 items-center">
@@ -8,8 +8,8 @@ export default function WesleyJonesCard() {
         <div className="relative group pt-4">
           <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-gray-600 group-hover:border-orange-500 transition duration-300">
             <Image
-              src="/ceo.png"
-              alt="Wesley Jones"
+              src="/jlat.png"
+              alt="Jesse Lattimore"
               width={160}
               height={160}
               className="object-cover w-full h-full"
@@ -54,7 +54,7 @@ export default function WesleyJonesCard() {
 
           {/* Name & Titles */}
           <h1 className="text-3xl font-bold text-gray-300 drop-shadow-[0_1.5px_1.5px_rgba(255,255,255,0.3)]">
-            Wesley Jones
+            Jesse Lattimore
           </h1>
 
           <div className="text-gray-300 text-sm">
