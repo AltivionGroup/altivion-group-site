@@ -65,9 +65,8 @@ export default function JesseLattimoreCard() {
           </h1>
 
           <div className="text-gray-300 text-sm">
-            <p>Founder | Chief Visionary Officer – Altivion Group</p>
-            <p>Founder | Chief Geospatial Officer – Waypoint Geospatial</p>
-            <p>Founder | Chief Operations Officer – Fuelify</p>
+            <p>Partner | Chief Strategy Officer – Altivion Group</p>
+            <p>Co-Founder | Director of Geospatia Operations – Waypoint Geospatial</p>
           </div>
 
           {/* Contact */}
