@@ -8,7 +8,7 @@ export default function JesseLattimoreCard() {
         <div className="relative group pt-4">
           <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-gray-600 group-hover:border-orange-500 transition duration-300">
             <Image
-              src="/businesscards/jlatt.png"
+              src="public/boardmembers/jlatt.png"
               alt="Jesse Lattimore"
               width={160}
               height={160}
@@ -36,7 +36,7 @@ export default function JesseLattimoreCard() {
             {/* Venture Logos Side-by-Side */}
             <div className="flex justify-center gap-4 mt-2">
                <Image
-                src="/venturelogo/wpg-rbg-logo.png"
+                src= "/venturelogo/alt-rbg-logo.png"
                 alt="Waypoint Geospatial"
                 width={100}
                 height={35}
