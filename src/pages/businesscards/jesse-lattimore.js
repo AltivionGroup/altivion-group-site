@@ -25,8 +25,8 @@ export default function JesseLattimoreCard() {
           {/* Logos and Company Centered Above Name */}
           <div className="flex flex-col items-center gap-2 mt-4">
             {/* Altivion Logo */}
-             <Image
-              src="/venturelogo/wpg-rbg-logo.png"
+            <Image
+              src="/venturelogo/alt-rbg-logo.png"
               alt="Altivion Logo"
               width={60}
               height={60}
@@ -35,8 +35,8 @@ export default function JesseLattimoreCard() {
 
             {/* Venture Logos Side-by-Side */}
             <div className="flex justify-center gap-4 mt-2">
-               <Image
-                src= "/venturelogo/alt-rbg-logo.png"
+              <Image
+                src="/venturelogo/wpg-rbg-logo.png"
                 alt="Waypoint Geospatial"
                 width={100}
                 height={35}
