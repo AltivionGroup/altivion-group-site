@@ -88,7 +88,7 @@ export default function WesleyJonesCard() {
               View Site
             </a>
             <a
-              href="tel:+1234567890"
+              href="tel:+14787503476"
               className="bg-gray-700 px-4 py-2 rounded-lg hover:bg-gray-600"
             >
               Call
