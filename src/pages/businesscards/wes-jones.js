@@ -50,7 +50,7 @@ export default function WesleyJonesCard() {
                 className="object-contain"
               />
               <Image
-                src="/venturelogo/fuel-rbg-logo.png"
+                src="/venturelogo/b8-rbg-logo.png"
                 alt="Fuelify"
                 width={100}
                 height={35}
