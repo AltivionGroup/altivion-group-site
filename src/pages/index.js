@@ -49,7 +49,7 @@ export default function Home() {
               },
              {
                 name: "Bravo Eight – Logistics & Freight",
-                url: "TBD",
+                url: "https://bravo-eight.vercel.app/",
               },
             ].map((venture) => (
               <a
