@@ -26,7 +26,7 @@ export default function JesseLattimoreCard() {
           <div className="flex flex-col items-center gap-2 mt-4">
             {/* Altivion Logo */}
              <Image
-              src="/logo.png"
+              src="public/boardmembers/jlatt.png"
               alt="Altivion Logo"
               width={60}
               height={60}
