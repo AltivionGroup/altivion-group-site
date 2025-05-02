@@ -66,8 +66,9 @@ export default function WesleyJonesCard() {
 
           <div className="text-gray-300 text-sm">
             <p>Founder | Chief Visionary Officer – Altivion Group</p>
-            <p>Founder | Chief Geospatial Officer – Waypoint Geospatial</p>
+            <p>Co-Founder | Chief Geospatial Officer – Waypoint Geospatial</p>
             <p>Founder | Chief Operations Officer – Fuelify</p>
+            <p>Co-Founder | Chief Logistics Officer – Bravo Eight</p>
           </div>
 
           {/* Contact */}
