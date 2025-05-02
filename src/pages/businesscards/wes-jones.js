@@ -8,7 +8,7 @@ export default function WesleyJonesCard() {
         <div className="relative group pt-4">
           <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-gray-600 group-hover:border-orange-500 transition duration-300">
             <Image
-              src= public/boardmembers/wjone.png
+              src= "/boardmembers/wjone.png"
               alt="Wesley Jones"
               width={160}
               height={160}
