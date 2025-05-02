@@ -94,7 +94,7 @@ export default function AlexTorresCard() {
               View Site
             </a>
             <a
-              href="tel:+14787503476"
+              href="tel:+19416610887"
               className="bg-gray-700 px-4 py-2 rounded-lg hover:bg-gray-600"
             >
               Call
