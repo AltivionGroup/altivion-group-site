@@ -49,7 +49,7 @@ export default function Home() {
               },
              {
                 name: "Bravo Eight – Logistics & Freight",
-                url: "https://jjones1026.github.io/waypoint-geospatial/",
+                url: "TBD",
               },
             ].map((venture) => (
               <a
