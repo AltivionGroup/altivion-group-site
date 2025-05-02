@@ -58,7 +58,7 @@ export default function WesleyJonesCard() {
           </h1>
 
           <div className="text-gray-300 text-sm">
-            <p>Founder | Chief Visionary Officer – Altivion</p>
+            <p>Founder | Chief Visionary Officer – Altivion Group</p>
             <p>Founder | Chief Geospatial Officer – Waypoint Geospatial</p>
             <p>Founder | Chief Operations Officer – Fuelify</p>
           </div>
