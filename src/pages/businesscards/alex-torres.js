@@ -26,7 +26,7 @@ export default function AlexTorresCard() {
           <div className="flex flex-col items-center gap-2 mt-4">
             {/* Altivion Logo */}
             <Image
-              src="/logo.png"
+              src="/venturelogo/alt-rbg-logo.png"
               alt="Altivion Logo"
               width={60}
               height={60}
@@ -35,7 +35,7 @@ export default function AlexTorresCard() {
 
             {/* Venture Logos Side-by-Side */}
             <div className="flex justify-center gap-4 mt-2">
-               <Image
+              <Image
                 src="/venturelogo/wpg-rbg-logo.png"
                 alt="Waypoint Geospatial"
                 width={100}
