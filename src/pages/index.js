@@ -47,6 +47,10 @@ export default function Home() {
                 name: "Waypoint Geospatial – Drone + GIS",
                 url: "https://jjones1026.github.io/waypoint-geospatial/",
               },
+             {
+                name: "Bravo Eight – Logistics & Freight",
+                url: "https://jjones1026.github.io/waypoint-geospatial/",
+              },
             ].map((venture) => (
               <a
                 key={venture.name}
@@ -71,8 +75,7 @@ export default function Home() {
               "TBD – Real Estate Division",
               "New Name – AI Smart Systems",
               "Nomadic Pour – Mobile Bar Experience",
-              "Bravo Eight – Logistics & Freight",
-            ].map((venture) => (
+              ].map((venture) => (
               <li
                 key={venture}
                 className="group p-4 bg-gray-800 rounded-xl border border-gray-600 relative transition"
