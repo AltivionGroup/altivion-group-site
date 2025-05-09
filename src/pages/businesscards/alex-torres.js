@@ -66,7 +66,7 @@ export default function AlexTorresCard() {
 
           <div className="text-gray-300 text-sm">
             <p>Board Member | Chief Strategy Officer – Altivion Group</p>
-            <p>Co-Founder | Director of Geospatia Operations – Waypoint Geospatial</p>
+            <p>Co-Founder | Director of Geospatial Operations – Waypoint Geospatial</p>
           </div>
 
           {/* Contact */}
